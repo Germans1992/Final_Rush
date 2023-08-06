@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92fe8ff7-1583-41e6-91cf-416f75890b95" name="Changes" comment="First Lesson" />
+    <list default="true" id="92fe8ff7-1583-41e6-91cf-416f75890b95" name="Changes" comment="First Lesson">
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/Danceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/DayOfTheWeekDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/DayOfTheWeekDetectorArrayVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/DayOfTheWeekDetectorIfVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/DayOfTheWeekDetectorSwitchVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw1/Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw1/CatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw1/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/CarExercise/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/CarExercise/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/CarExercise/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/CarExercise/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/CarExercise/PetrolCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/CarExercise/PetrolCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/ChildMotherFather/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/ChildMotherFather/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/ChildMotherFather/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/ChildMotherFather/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/ChildMotherFather/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/ChildMotherFather/Mother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Lamb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Lamb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deTelranTitovsGermans/cw2/Homework2/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deTelranTitovsGermans/Homework2/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deTelranTitovsGermans/Homework/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deTelranTitovsGermans/Homework/Phone.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,10 +83,47 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;
+    ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="deTelranTitovsGermans.Homework3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deTelranTitovsGermans.Homework2.AnimalTest" />
+      <module name="Final_Rush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deTelranTitovsGermans.Homework2.ChildMotherFather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deTelranTitovsGermans.Homework3.Main" />
+      <module name="Final_Rush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deTelranTitovsGermans.Homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deTelranTitovsGermans.Homework1.Phone" />
       <module name="Final_Rush" />
@@ -60,8 +137,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShapesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deTelranTitovsGermans.cw2.Shapes.ShapesTest" />
+      <module name="Final_Rush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deTelranTitovsGermans.cw2.Shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.ShapesTest" />
         <item itemvalue="Application.Phone" />
       </list>
     </recent_temporary>
@@ -89,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691011649733</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Lesson">
+      <created>1691011747323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691011747325</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Lesson">
+      <created>1691311865904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691311865904</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
